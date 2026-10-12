@@ -1,3 +1,0 @@
-aiogram==3.15.0
-feedparser
-deep-translator
